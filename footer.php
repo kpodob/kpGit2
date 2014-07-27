@@ -28,4 +28,4 @@ $version = new JVersion();
 
 123 my changes
 
-to trzeba zmergowac
+1to trzeba zmergowac
