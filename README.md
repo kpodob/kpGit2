@@ -4,3 +4,5 @@ cos tam z glownego
 branczse
 
 dodam cos od siebie
+
+ser 1
