@@ -26,6 +26,8 @@ $version = new JVersion();
 	<?php echo $version->URL; ?>
 </div>
 
-123 my changes
-
+123 my changeeqw
 1to trzeba zmergowac
+=======
+cos sobie to wpisalem.
+to jest dobrze
