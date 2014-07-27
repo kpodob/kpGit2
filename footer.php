@@ -27,3 +27,5 @@ $version = new JVersion();
 </div>
 
 123 my changes
+
+to trzeba zmergowac
