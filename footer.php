@@ -25,3 +25,5 @@ $version = new JVersion();
 <div align="center">
 	<?php echo $version->URL; ?>
 </div>
+
+123 my changes
