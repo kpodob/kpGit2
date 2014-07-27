@@ -31,3 +31,5 @@ $version = new JVersion();
 =======
 cos sobie to wpisalem.
 to jest dobrze
+
+cos tam
